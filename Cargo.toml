@@ -12,3 +12,7 @@ description = "Implementation of some algorithms and data structures for competi
 name = "suffix_trie_naive"
 path = "src/bin/string/suffix_trie_naive.rs"
 
+[[bin]]
+name = "suffix_trie_compressed"
+path = "src/bin/string/suffix_trie_compressed.rs"
+

@@ -1,5 +1,3 @@
-// https://neerc.ifmo.ru/wiki/index.php?title=Суффиксный_бор
-
 extern crate algo_rust;
 use algo_rust::structures::suffix_trie::{SuffixTrieBehaviour};
 use algo_rust::string::suffix_trie_naive::{SuffixTrieNaive, NodeTypeNaive};
