@@ -1,0 +1,4 @@
+target/*
+*/trash/*
+*.sh
+*.lock
