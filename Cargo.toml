@@ -25,6 +25,10 @@ name = "rabin_karp"
 path = "src/bin/string/search_rabin_karp.rs"
 
 [[bin]]
+name = "knuth_morris_pratt"
+path = "src/bin/string/search_knuth_morris_pratt.rs"
+
+[[bin]]
 name = "suffix_trie_naive"
 path = "src/bin/string/suffix_trie_naive.rs"
 
