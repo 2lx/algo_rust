@@ -16,3 +16,10 @@ path = "src/bin/string/suffix_trie_naive.rs"
 name = "suffix_trie_compressed"
 path = "src/bin/string/suffix_trie_compressed.rs"
 
+[[bin]]
+name = "prefix_function"
+path = "src/bin/string/prefix_function.rs"
+
+[[bin]]
+name = "z_function"
+path = "src/bin/string/z_function.rs"
