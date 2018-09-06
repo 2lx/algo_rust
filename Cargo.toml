@@ -9,6 +9,10 @@ readme = "README.md"
 description = "Implementation of some algorithms and data structures for competitive coding"
 
 [[bin]]
+name = "fibonacci"
+path = "src/bin/number/fibonacci_iterator.rs"
+
+[[bin]]
 name = "suffix_trie_naive"
 path = "src/bin/string/suffix_trie_naive.rs"
 
