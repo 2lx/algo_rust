@@ -13,6 +13,18 @@ name = "fibonacci"
 path = "src/bin/number/fibonacci_iterator.rs"
 
 [[bin]]
+name = "prefix_function"
+path = "src/bin/string/prefix_function.rs"
+
+[[bin]]
+name = "z_function"
+path = "src/bin/string/z_function.rs"
+
+[[bin]]
+name = "rabin_karp"
+path = "src/bin/string/search_rabin_karp.rs"
+
+[[bin]]
 name = "suffix_trie_naive"
 path = "src/bin/string/suffix_trie_naive.rs"
 
@@ -20,10 +32,3 @@ path = "src/bin/string/suffix_trie_naive.rs"
 name = "suffix_trie_compressed"
 path = "src/bin/string/suffix_trie_compressed.rs"
 
-[[bin]]
-name = "prefix_function"
-path = "src/bin/string/prefix_function.rs"
-
-[[bin]]
-name = "z_function"
-path = "src/bin/string/z_function.rs"
